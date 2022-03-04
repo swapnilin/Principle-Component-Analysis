@@ -1,4 +1,10 @@
 # Principle-Component-Analysis
+-----------------------------
+
+## Objective: 
+-----------------------------
+The objective of these case studies is to reduce the number of features by using dimensionality reduction techniques like PCA and extract insights.
+
 
 ## Case Study 1:
 -----------------------------
@@ -18,7 +24,4 @@ In this case study, we aim to generate and visualize the PCA for auto-mpg datase
 
 Dataset - auto-mpg.csv
 
------------------------------
-## Objective: 
------------------------------
-The objective of these case studies is to reduce the number of features by using dimensionality reduction techniques like PCA and extract insights. auto-mpg.csv
+
